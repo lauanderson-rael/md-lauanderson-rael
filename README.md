@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lauanderson-rael&theme=radical&mode=weekly" /> -->
-<img width=55% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lauanderson-rael&show_icons=true&theme=radical&layout=compact" />
+<img width=50% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lauanderson-rael&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
@@ -48,12 +48,13 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/lauanderson.rael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:lauanderson38@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lauanderson-rael-a68b2b16a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+    <a href="https://www.instagram.com/lauanderson.rael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href = "mailto:lauanderson38@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lauanderson-rael-a68b2b16a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+    <a href="https://youtube.com/channel/UCvGvh2gJS44gfOiFB3HvUUg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%25230077B5?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
+
  
 
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
