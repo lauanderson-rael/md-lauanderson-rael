@@ -1,5 +1,5 @@
 
-<p align="center"> <img style="margin-bottom:20px" width=80% src="./assets/imgHeader.png" />
+<p align="center"> <img style="margin-bottom:20px" width=100% src="./assets/imgHeader.png" />
 </p>
 
 <p align="center">🚀 Passionate about challenges and technology, I'm a junior web developer with expertise in HTML, CSS, and JavaScript, taking my first steps into the world of React. Currently enrolled in the 2nd semester of Analysis and Systems Development. I love exploring new technologies and using them to create innovative, high-quality solutions.
