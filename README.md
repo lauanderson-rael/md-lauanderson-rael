@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:20px">
 <!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lauanderson-rael&theme=radical&mode=weekly" /> -->
-<img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lauanderson-rael&show_icons=true&theme=radical&layout=compact" />
+<img width=45% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=lauandersonn-rael&show_icons=true&theme=radical&layout=compact" />
  </div>
  
 
