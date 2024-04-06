@@ -52,13 +52,12 @@
     <a href="https://youtube.com/channel/UCvGvh2gJS44gfOiFB3HvUUg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%25230077B5?style=for-the-badge&logo=youtube&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
- 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauanderson-rael/lauanderson-rael/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauanderson-rael/lauanderson-rael/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauanderson-rael/lauanderson-rael/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+
