@@ -57,7 +57,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauanderson-rael/lauanderson-rael/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauanderson-rael/lauanderson-rael/output/github-contribution-grid-snake.svg">
 </picture>
-<br><br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
