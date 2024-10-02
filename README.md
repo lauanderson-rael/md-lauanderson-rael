@@ -1,4 +1,3 @@
-
 <h2 align="center"> Hi, I'm Lauanderson Rael 👨‍💻</h2>
 
 <p align="center">🚀 Passionate about challenges and technology, I'm a junior web developer with expertise in HTML, CSS, and JavaScript, taking my first steps into the world of React. Currently enrolled in the 2nd semester of Analysis and Systems Development. I love exploring new technologies and using them to create innovative, high-quality solutions.
@@ -10,7 +9,7 @@
  
 ## My Skills
 
-#### Main Stack:
+#### <span style="color:#b5b5b5">Main Stack:</span>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,14 +21,14 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-#### Databases:
+#### <span style="color:#b5b5b5">Databases:</span>
 
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; -->
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 <!-- &nbsp;-->
 
-## Contacts:
+## Contacts
 
 <div> 
     <a href = "mailto:lauanderson38@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23355?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
